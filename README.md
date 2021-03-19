@@ -16,20 +16,20 @@ https://drive.google.com/drive/folders/1S_gZ31EbsS5oFb5R5thur_g8ztgPPNrB
 - Python
 - PostgreSQL
 
-#🔭 I’m currently working on a rhythm game for Wolfbyte IEEE
+# 🔭 I’m currently working on a rhythm game for Wolfbyte IEEE
 
-#🌱 Past Projects:
+# 🌱 Past Projects:
 - Blade Arena
 - Witchcraft
 - Batalhas da História do Brasil (BHB)
 
-#📫 How to reach me: 
+# 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/vinicius-santos-b217b5168/
 - Email: viniciusantos0898@gmail.com
 
 
 
-#⚡ Fun facts!:
+# ⚡ Fun facts!:
 
 -🥳 I love Carnaval, especially the Rio de Janeiro Parade
 
