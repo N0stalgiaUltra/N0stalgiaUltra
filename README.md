@@ -29,17 +29,25 @@ https://drive.google.com/drive/folders/1S_gZ31EbsS5oFb5R5thur_g8ztgPPNrB
 
 
 
-#⚡ Fun facts!
+#⚡ Fun facts!:
 
 -🥳 I love Carnaval, especially the Rio de Janeiro Parade
+
 -⚽ I love Football, so my heart is half Botafogo and half Liverpool
+
 -🍊 I rather drink juice than soda
 
 #🎮 My favourite games are 🎮:
+
 -🗃️ Metal Gear Solid
+
 -🎮 Mortal Kombat
+
 -⚔️ Dark Souls
+
 -👾 Outer Wilds
+
 -⚔️ Hollow Knight
+
 - 🚶 Undertale
 
