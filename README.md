@@ -50,5 +50,5 @@ https://drive.google.com/drive/folders/1S_gZ31EbsS5oFb5R5thur_g8ztgPPNrB
 
 -⚔️ Hollow Knight
 
-- 🚶 Undertale
+-🚶 Undertale
 
