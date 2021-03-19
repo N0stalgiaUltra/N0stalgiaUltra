@@ -3,7 +3,7 @@ Hi! My name is Vinicius Santos, i´m 23 years old and cursing Computer Science i
 I love videogames, beacause of that, i´m chasing my childhood dream of becoming a game developer!
 
 <!--
-**N0stalgiaUltra/N0stalgiaUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**N0stalgiaUltra/N0stalgiaUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## Portfolio (with some downloadble games!)
 https://drive.google.com/drive/folders/1S_gZ31EbsS5oFb5R5thur_g8ztgPPNrB
@@ -41,4 +41,4 @@ https://drive.google.com/drive/folders/1S_gZ31EbsS5oFb5R5thur_g8ztgPPNrB
 👾 Outer Wilds
 ⚔️ Hollow Knight
 🚶  Undertale
--->
+
