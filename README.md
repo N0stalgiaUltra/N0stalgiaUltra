@@ -16,7 +16,8 @@ https://drive.google.com/drive/folders/1S_gZ31EbsS5oFb5R5thur_g8ztgPPNrB
 - Python
 - PostgreSQL
 
-# 🔭 I’m currently working on a rhythm game for Wolfbyte IEEE
+# 🔭 I’m currently working on a rhythm game for Wolfbyte IEEE!
+
 
 # 🌱 Past Projects:
 - Blade Arena
@@ -37,7 +38,7 @@ https://drive.google.com/drive/folders/1S_gZ31EbsS5oFb5R5thur_g8ztgPPNrB
 
 -🍊 I rather drink juice than soda
 
-#🎮 My favourite games are 🎮:
+# 🎮 My favourite games are 🎮:
 
 -🗃️ Metal Gear Solid
 
