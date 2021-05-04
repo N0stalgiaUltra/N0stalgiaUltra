@@ -21,6 +21,7 @@ https://n0stalgia-ultra.itch.io/
 
 # 🌱 Past Projects:
 - Blade Arena
+- Monster Slayer
 - Witchcraft
 - Meteor Storm
 - Batalhas da História do Brasil (BHB)
