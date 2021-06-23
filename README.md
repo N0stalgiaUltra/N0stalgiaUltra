@@ -15,6 +15,9 @@ https://n0stalgia-ultra.itch.io/
 - Java
 - Python
 - PostgreSQL
+- HTML
+- CSS
+- JavaScript
 
 # 🔭 I’m currently working on a rhythm game for Wolfbyte IEEE!
 
