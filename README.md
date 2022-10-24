@@ -1,5 +1,5 @@
 ### Hello there!/Olá!👋
-Hi! My name is Vinicius Santos, i´m 23 years old and cursing Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
+Hi! My name is Vinicius Santos, i´m 24 years old and cursing Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
 I love videogames, beacause of that, i´m chasing my childhood dream of becoming a game developer!
 
 <!--
@@ -14,12 +14,9 @@ https://n0stalgia-ultra.itch.io/
 - Git
 - Java
 - Python
-- PostgreSQL
-- HTML
-- CSS
 - JavaScript
 
-# 🔭 I’m currently working on a rhythm game for Wolfbyte IEEE!
+# 🔭 I’m currently working on a multiplayer game
 
 
 # 🌱 Past Projects:
@@ -31,6 +28,7 @@ https://n0stalgia-ultra.itch.io/
 
 # 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/vinicius-santos-b217b5168/
+- Itch.Io : https://n0stalgia-ultra.itch.io/
 - Email: viniciusantos0898@gmail.com
 
 
