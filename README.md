@@ -15,8 +15,8 @@ https://n0stalgia-ultra.itch.io/
 - Java
 - Python
 - JavaScript
-
-# 🔭 I’m currently working on a multiplayer game
+- HTML
+- CSS
 
 
 # 🌱 Past Projects:
