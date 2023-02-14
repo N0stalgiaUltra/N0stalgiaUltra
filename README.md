@@ -1,6 +1,6 @@
 ### Hello there!/Olá!👋
-Hi! My name is Vinicius Santos, i´m 24 years old and cursing Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
-I love videogames, beacause of that, i´m chasing my childhood dream of becoming a game developer!
+Hi! My name is Vinicius Santos, i´m 25 years old and cursing Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
+Searching for new experiences as developer
 
 <!--
 **N0stalgiaUltra/N0stalgiaUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
