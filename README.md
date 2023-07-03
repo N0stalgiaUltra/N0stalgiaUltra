@@ -1,5 +1,5 @@
 ### Hello there!/Olá!👋
-Hi! My name is Vinicius Santos, I´m 25 years old and studying Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
+Hi! My name is Vinicius Santos, I´m mobile developer with some game development experience. Currently, I'm 25y/o and studying Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
 My goal is to become a better professional, always living and leaning and land a new job experience as mobile developer  
 
 <!--
