@@ -5,20 +5,20 @@ My goal is to become a better professional, always living and leaning and land a
 <!--
 **N0stalgiaUltra/N0stalgiaUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Old Portfolio (New portfolio coming soon ✨)
+## 📰 Old Portfolio (New portfolio coming soon ✨)
 https://n0stalgia-ultra.itch.io/
 
 ## Knowledge:
-### Mobile Development: 
+### 📱 Mobile Development: 
 - Kotlin
 - Android (Architecture, Android Studio)
 - Jetpack Compose
 
-### Game Development: 
+### 🎮 Game Development: 
 - C#
 - Unity
 
-### Other 
+### 💻 Other 
 - Git
 - Java
 - Python
