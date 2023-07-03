@@ -8,7 +8,7 @@ My goal is to become a better professional, always living and leaning and land a
 ## 📰 Old Portfolio (New portfolio coming soon ✨)
 https://n0stalgia-ultra.itch.io/
 
-## Knowledge:
+## 🧠 Knowledge:
 ### 📱 Mobile Development: 
 - Kotlin
 - Android (Architecture, Android Studio)
