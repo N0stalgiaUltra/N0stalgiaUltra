@@ -1,16 +1,24 @@
 ### Hello there!/Olá!👋
-Hi! My name is Vinicius Santos, i´m 25 years old and cursing Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
-Searching for new experiences as developer
+Hi! My name is Vinicius Santos, I´m 25 years old and studying Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
+My goal is to become a better professional, always living and leaning and land a new job experience as mobile developer  
 
 <!--
 **N0stalgiaUltra/N0stalgiaUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Portfolio (with some downloadble games!)
+## Old Portfolio (New portfolio coming soon ✨)
 https://n0stalgia-ultra.itch.io/
 
 ## Knowledge:
-- C# (for unity)
+### Mobile Development: 
+- Kotlin
+- Android (Architecture, Android Studio)
+- Jetpack Compose
+
+### Game Development: 
+- C#
 - Unity
+
+### Other 
 - Git
 - Java
 - Python
