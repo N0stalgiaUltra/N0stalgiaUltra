@@ -1,6 +1,6 @@
 ### Hello there!/Olá!👋
 Hi! My name is Vinicius Santos, I´m mobile developer with some game development experience. Currently, I'm 25y/o and studying Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
-My goal is to become a better professional, always living and leaning and land a new job experience as mobile developer  
+My goal is to become a better professional, always learning and thriving. And, also, land a new job experience as mobile developer  
 
 <!--
 **N0stalgiaUltra/N0stalgiaUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
