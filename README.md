@@ -13,6 +13,7 @@ https://n0stalgia-ultra.itch.io/
 - Kotlin
 - Android (Architecture, Android Studio)
 - Jetpack Compose
+- MVVM
 
 ### 🎮 Game Development: 
 - C#
@@ -28,11 +29,11 @@ https://n0stalgia-ultra.itch.io/
 
 
 # 🌱 Past Projects:
+- Sportera
+- Samba Robots
 - Blade Arena
 - Monster Slayer
-- Witchcraft
-- Meteor Storm
-- Batalhas da História do Brasil (BHB)
+
 
 # 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/vinicius-santos-b217b5168/
