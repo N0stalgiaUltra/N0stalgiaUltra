@@ -14,6 +14,7 @@ https://n0stalgia-ultra.itch.io/
 - Android (Architecture, Android Studio)
 - Jetpack Compose
 - MVVM
+- Firebase Auth 
 
 ### 🎮 Game Development: 
 - C#
@@ -28,11 +29,11 @@ https://n0stalgia-ultra.itch.io/
 - CSS
 
 
-# 🌱 Past Projects:
+# 🌱 Recent Projects:
 - Sportera
 - Samba Robots
-- Blade Arena
-- Monster Slayer
+- Task Control App (Work in progress, check it out!)
+  
 
 
 # 📫 How to reach me: 
