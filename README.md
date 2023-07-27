@@ -15,6 +15,8 @@ https://n0stalgia-ultra.itch.io/
 - Jetpack Compose
 - MVVM
 - Firebase Auth 
+- XML
+- Java 
 
 ### 🎮 Game Development: 
 - C#
@@ -22,11 +24,11 @@ https://n0stalgia-ultra.itch.io/
 
 ### 💻 Other 
 - Git
-- Java
 - Python
 - JavaScript
 - HTML
 - CSS
+- SQL
 
 
 # 🌱 Recent Projects:
