@@ -14,11 +14,11 @@ https://n0stalgia-ultra.itch.io/
 - Android (Architecture, Android Studio)
 - Jetpack
   - Compose
-  - Activity
   - Navigation
   - Live Data 
 - MVVM
 - XML
+- API RESTful
 - Java 
 
 ### 🎮 Game Development: 
