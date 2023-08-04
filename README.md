@@ -13,9 +13,6 @@ https://n0stalgia-ultra.itch.io/
 - Kotlin
 - Android (Architecture, Android Studio)
 - Jetpack
-  - Compose
-  - Navigation
-  - Live Data 
 - MVVM
 - XML
 - API RESTful
