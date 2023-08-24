@@ -32,6 +32,7 @@ https://n0stalgia-ultra.itch.io/
 
 
 # 🌱 Recent Projects:
+- [Notesapp](https://github.com/N0stalgiaUltra/NotesApp/tree/main)
 - <a href="https://github.com/N0stalgiaUltra/TaskControlApp"> Task Control</a>
 - <a href="https://github.com/N0stalgiaUltra/MoviesAPP">MoviesApp (Case Study)</a>
 - <a href="https://github.com/N0stalgiaUltra/SaveTheDateApp"> Save the Date (Case Study)</a>
