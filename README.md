@@ -4,11 +4,11 @@ My goal is to become a better professional, always learning and thriving. And, a
 
 <!--
 **N0stalgiaUltra/N0stalgiaUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img align="right" width="400" height="208" src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47wdifa432gyhx5mf7x1dgu3fyn71s0yh2p4dk30di&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" width="300" height="208" src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47wdifa432gyhx5mf7x1dgu3fyn71s0yh2p4dk30di&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 ```kotlin
-object AndroidDev {
- val name = "Vinicius"
+object N0stalgiaUltra {
+ val name = "Vinicius Tavares"
 
  val primarySkillset = "Android Developer"
  val languages = listOf("Kotlin", "C#", "Java")
