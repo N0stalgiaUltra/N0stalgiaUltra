@@ -4,10 +4,20 @@ My goal is to become a better professional, always learning and thriving. And, a
 
 <!--
 **N0stalgiaUltra/N0stalgiaUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<img align="right" width="400" height="208" src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47wdifa432gyhx5mf7x1dgu3fyn71s0yh2p4dk30di&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-## 📰 Old Portfolio (New portfolio coming soon ✨)
-https://n0stalgia-ultra.itch.io/
+```kotlin
+object AndroidDev {
+ val name = "Vinicius"
 
+ val primarySkillset = "Android Developer"
+ val languages = listOf("Kotlin", "C#", "Java")
+ val mobileTechStack = listOf("Android SDK", "Android Jetpack",
+                      "API RESTful", "MVVM", "Clean Arch")
+ 
+}
+```
+<!-- 
 ## 🧠 Knowledge:
 ### 📱 Mobile Development: 
 - Kotlin
@@ -29,7 +39,7 @@ https://n0stalgia-ultra.itch.io/
 - HTML
 - CSS
 - SQL
-
+-->
 
 # 🌱 Recent Projects:
 - [Notes App](https://github.com/N0stalgiaUltra/NotesApp/tree/main)
@@ -54,17 +64,4 @@ https://n0stalgia-ultra.itch.io/
 
 -🍊 I rather drink juice than soda
 
-# 🎮 My favourite games are 🎮:
-
--🗃️ Metal Gear Solid
-
--🎮 Mortal Kombat
-
--⚔️ Dark Souls
-
--👾 Outer Wilds
-
--⚔️ Hollow Knight
-
--🚶 Undertale
 
