@@ -56,12 +56,4 @@ object N0stalgiaUltra {
 
 
 
-# ⚡ Fun facts!:
-
--🥳 I love Carnaval, especially the Rio de Janeiro Parade
-
--⚽ I love Football, so my heart is half Botafogo and half Liverpool
-
--🍊 I rather drink juice than soda
-
 
