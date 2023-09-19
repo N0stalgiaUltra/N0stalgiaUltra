@@ -43,6 +43,7 @@ object N0stalgiaUltra {
 -->
 
 # 🌱 Recent Projects:
+- [Head2Head App](https://github.com/N0stalgiaUltra/Head2HeadApp)
 - [Notes App](https://github.com/N0stalgiaUltra/NotesApp/tree/main)
 - [Task Control](https://github.com/N0stalgiaUltra/TaskControlApp)
 - [Movies App](https://github.com/N0stalgiaUltra/MoviesAPP)
