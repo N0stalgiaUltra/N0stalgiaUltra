@@ -14,6 +14,12 @@ object N0stalgiaUltra {
  val languages = listOf("Kotlin", "C#", "Java")
  val mobileTechStack = listOf("Android SDK", "Android Jetpack",
                       "API RESTful", "MVVM", "Clean Arch")
+
+val secondarySkillset = "Game Developer"
+val language = "C#"
+val gamesTechStack = listOf("Unity", "Unity Cloud Build",
+                            "Mobile Games", "Serious Games",
+                            "Educational Games", "Design Patterns")
  
 }
 ```
