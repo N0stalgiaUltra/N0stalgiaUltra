@@ -2,7 +2,7 @@
 Hi! My name is Vinicius Santos, I´m mobile developer with some game development experience. Currently, I'm 25y/o and studying Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
 My goal is to become a better professional, always learning and thriving. And, also, land a new job experience as mobile developer  
 
-# Contact ✨
+# ✨Contact 
  <br>
   <a href="https://wa.me/+5521990399627"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vinicius-santos-b217b5168/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -29,10 +29,18 @@ val gamesTechStack = listOf("Unity", "Unity Cloud Build",
 }
 ```
 
+<br>
+<img src="https://myreadme.vercel.app/api/embed/N0stalgiaUltra?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+# ⭐ Current Projects: 
+- [PetJournal](https://github.com/N0stalgiaUltra/petjournal.android) 
+- [AchaCep](https://github.com/N0stalgiaUltra/AcheseuCEP)
 
 
 # 🌱 Recent Projects:
-- [Head2Head App](https://github.com/N0stalgiaUltra/Head2HeadApp)
-- [Notes App](https://github.com/N0stalgiaUltra/NotesApp/tree/main)
-- [Task Control](https://github.com/N0stalgiaUltra/TaskControlApp)
-- [Movies App](https://github.com/N0stalgiaUltra/MoviesAPP)
+
+<a href="https://github.com/N0stalgiaUltra/Head2HeadApp"> <img src="data_selected.gif" width="20%" alt="Head 2 Head App"/>  </a> 
+<a href="https://github.com/N0stalgiaUltra/TaskControlApp"> <img src="Screenshot_20230719_183002.png" width="20%" alt="Task Control App"/>  </a> 
+<a href="https://github.com/N0stalgiaUltra/NotesApp/tree/main"> <img src="createnotegid.gif" width="20%" alt="Notes App"/>  </a> 
+<a href="https://github.com/N0stalgiaUltra/MoviesAPP"> <img src="moviesApp_1.png" width="20%" alt="Movies App"/>  </a> 
+
