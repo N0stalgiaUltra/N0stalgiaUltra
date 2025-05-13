@@ -1,44 +1,83 @@
-### Hello there!/Olá!👋
-Hi! My name is Vinicius Santos, I´m mobile developer with some game development experience. Currently, I'm 25y/o and studying Computer Science in Centro Federal de Educação Tecnologica Celso Suckow da Fonseca, also known as CEFET/RJ.
-My goal is to become a better professional, always learning and thriving. And, also, land a new job experience as mobile developer  
+<h1 align="left">Hey 👋 What's up?</h1>
 
-# ✨Contact 
- <br>
-  <a href="https://wa.me/+5521990399627"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vinicius-santos-b217b5168/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:viniciusantos0898@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
-  <a href='https://play.google.com/store/apps/developer?id=N0stalgiaUltra&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=  30%/></a>
+###
 
-# 🧠 Knowledge:
+<p align="left">My name Vinicius and I'm a Android developer currently working for Declink.</p>
 
-```kotlin
-object N0stalgiaUltra {
- val name = "Vinicius Tavares"
+###
 
- val primarySkillset = "Android Developer"
- val languages = listOf("Kotlin", "C#", "Java")
- val mobileTechStack = listOf("Android SDK", "Android Jetpack",
-                      "API RESTful", "MVVM", "Clean Arch",
-                      "Unit and Instrumented Testing", "XML", "Compose")
+<h2 align="left">About me</h2>
 
-val secondarySkillset = "Game Developer"
-val language = "C#"
-val gamesTechStack = listOf("Unity", "Unity Cloud Build",
-                            "Mobile Games", "Serious Games",
-                            "Educational Games", "Design Patterns")
+###
+
+<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning TDD and CI/CD<br>🎯 Goals: Work for a International Company</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="40" alt="tortoisegit logo"  />
+</div>
+
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vinicius-santos-b217b5168/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="viniciusantos0898@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@viniciusantos0898" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
  
-}
-```
+</div>
 
-<br>
-<img src="https://myreadme.vercel.app/api/embed/N0stalgiaUltra?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+###
 
-# ⭐ Current Projects: 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N0stalgiaUltra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N0stalgiaUltra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+
+<h2 align="left">⭐ Current Projects </h2>
+
 - [PetJournal](https://github.com/N0stalgiaUltra/petjournal.android) 
 - [AchaCep](https://github.com/N0stalgiaUltra/AcheseuCEP)
 
 
-# 🌱 Recent Projects:
+<h2 align="left">🌱 Recent Projects </h2>
+
 
 <a href="https://github.com/N0stalgiaUltra/Head2HeadApp"> <img src="data_selected.gif" width="20%" alt="Head 2 Head App"/>  </a> 
 <a href="https://github.com/N0stalgiaUltra/TaskControlApp"> <img src="Screenshot_20230719_183002.png" width="20%" alt="Task Control App"/>  </a> 
